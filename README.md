@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python , JavaScript**
 
-- 📝 I regularly write articles on [(https://medium.com/@capwellmurimi)
+- 📝 I regularly write articles on https://medium.com/@capwellmurimi
 
 - 📫 How to reach me **capwellmurimi@gmail.com**
 
