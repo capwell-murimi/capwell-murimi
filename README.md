@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/capwellmurimi" target="blank"><img src="https://img.shields.io/twitter/follow/capwellmurimi?logo=twitter&style=for-the-badge" alt="capwellmurimi" /></a> </p>
 
-- 🔭 I’m currently working on [coedlib](https://coedlib.netlify.app/)
+- 🔭 I’m currently working on [coedlib](https://coedlib.netlify.app/).
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
-- 📝 I regularly write articles on https://medium.com/@capwellmurimi
+- 📝 I regularly write articles on [medium](https://medium.com/@capwellmurimi)
 
 - 📫 How to reach me **capwellmurimi@gmail.com**
 
