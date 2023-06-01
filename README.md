@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [coedlib](https://coedlib.netlify.app/).
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Python and JavaScript**.
 
 - 📝 I regularly write articles on [medium](https://medium.com/@capwellmurimi)
 
