@@ -32,5 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=capwell-murimi&show_icons=true&locale=en&layout=compact" alt="capwell-murimi" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capwell-murimi&" alt="capwell-murimi" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=capwell-murimi)](https://git.io/streak-stats)
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capwell-murimi&" alt="capwell-murimi" /></p>-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=capwell-murimi&theme=dark" alt="GitHub Streak" /></a>
