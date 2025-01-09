@@ -33,3 +33,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capwell-murimi&" alt="capwell-murimi" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=capwell-murimi)](https://git.io/streak-stats)
